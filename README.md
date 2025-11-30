@@ -4,7 +4,7 @@
 
 I am a graduate student at the **African Institute of Mathematical Sciences (AIMS)**, where I study the mathematical foundations of data science and artificial intelligence. My work sits at the intersection of **probability**, **statistical learning theory**, and **representation learning**, with applications in humanitarian and public-interest data.
 
-I enjoy building clean, interpretable systems — from statistical models to large-scale data pipelines — and exploring the theory that makes them reliable.
+I enjoy building clean, interpretable systems from statistical models to large-scale data pipelines and exploring the theory that makes them reliable.
 
 ---
 
